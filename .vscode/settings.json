@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "prettier.jsxSingleQuote": true,
+   "emmet.includeLanguages": {
+       "javascript":"javascriptreact"
+   }
+}
